@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group_20" transform="translate(1.000000, 3.000000)">
+                <g id="Group" transform="translate(0.000000, 15.000000)">
+                    <g id="i32ia-link">
+                        <path d="M8.041,4.837 L10.881,1.699 L8.041,4.837 Z M4.937,6.285 L0.105,6.285 L4.937,6.285 Z M6.721,7.311 C6.16866735,7.31135733 5.65810031,7.01702154 5.38162457,6.53886608 C5.10514883,6.06071062 5.10476763,5.4713787 5.38062457,4.99286597 C5.65648151,4.51435325 6.16666735,4.2193572 6.719,4.219 C7.57283215,4.21844782 8.26544753,4.91016785 8.26599981,5.764 C8.2665521,6.61783215 7.57483215,7.31044761 6.721,7.311 Z M1.13686838e-13,0.841 L1.13686838e-13,11.731 L1.13686838e-13,0.841 Z" id="i32ia"></path>
+                    </g>
+                    <g id="i32ia-link" fill-opacity="0" stroke="#042C68" stroke-width="0.75">
+                        <path d="M8.041,4.837 L10.881,1.699 L8.041,4.837 Z M4.937,6.285 L0.105,6.285 L4.937,6.285 Z M6.721,7.311 C6.16866735,7.31135733 5.65810031,7.01702154 5.38162457,6.53886608 C5.10514883,6.06071062 5.10476763,5.4713787 5.38062457,4.99286597 C5.65648151,4.51435325 6.16666735,4.2193572 6.719,4.219 C7.57283215,4.21844782 8.26544753,4.91016785 8.26599981,5.764 C8.2665521,6.61783215 7.57483215,7.31044761 6.721,7.311 Z M1.13686838e-13,0.841 L1.13686838e-13,11.731 L1.13686838e-13,0.841 Z" id="i32ia"></path>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(2.000000, 0.000000)">
+                    <g id="i32ib-link">
+                        <polygon id="i32ib" points="0.277 7.213 13.793 20.727 28.217 20.727 7.49 0"></polygon>
+                    </g>
+                    <g id="i32ib-link" fill-opacity="0" stroke="#042C68" stroke-width="0.75">
+                        <polygon id="i32ib" points="0.277 7.213 13.793 20.727 28.217 20.727 7.49 0"></polygon>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(19.000000, 20.000000)">
+                    <g id="i32ic-link">
+                        <polyline id="i32ic" points="0.603 0.692 5.896 5.987 9.266 2.618 7.342 0.692"></polyline>
+                    </g>
+                    <g id="i32ic-link" fill-opacity="0" stroke="#042C68" stroke-width="0.75">
+                        <polyline id="i32ic" points="0.603 0.692 5.896 5.987 9.266 2.618 7.342 0.692"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
